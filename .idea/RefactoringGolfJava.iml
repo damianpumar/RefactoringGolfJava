@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ROUND_4_A/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ROUND_5_A/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ROUND_5_A/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ROUND_1_A/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ROUND_1_B" />
       <excludeFolder url="file://$MODULE_DIR$/ROUND_2_B" />
       <excludeFolder url="file://$MODULE_DIR$/ROUND_3_B" />

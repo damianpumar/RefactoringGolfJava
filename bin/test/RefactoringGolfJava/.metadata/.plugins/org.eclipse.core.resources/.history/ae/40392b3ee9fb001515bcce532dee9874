@@ -12,13 +12,13 @@ import org.junit.runners.Parameterized.Parameters;
  
 
 @RunWith(Parameterized.class)
-public class FibonacciIndexTests {
+public class FibonacciIndexHappyPathTests {
 
 	private final int expectedIndex;
 	private final long fibonacci;
 
 
-	public FibonacciIndexTests(long expectedIndex, int fibonacci) {
+	public FibonacciIndexHappyPathTests(long expectedIndex, int fibonacci) {
 		this.expectedIndex = expectedIndex;
 		this.fibonacci = fibonacci;
 	}	

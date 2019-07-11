@@ -3,7 +3,7 @@
 1459942376528	Convert local variable 'indexer' to field
 1459942519497	Extract superclass 'FibonacciIndexerBaseTests'
 1459942672036	Change method 'FibonacciIndexerBaseTests'
-1459942739113	Rename type 'FibonacciIndexTests'
+1459942739113	Rename type 'FibonacciIndexHappyPathTests'
 1459942753669	Rename type 'FibonacciIndexerBaseTests'
 1459942775214	Move compilation unit
 1459942964506	Extract method 'seek'

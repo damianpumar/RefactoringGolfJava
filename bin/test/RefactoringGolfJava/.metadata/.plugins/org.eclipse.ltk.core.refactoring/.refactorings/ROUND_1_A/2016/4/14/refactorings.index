@@ -8,8 +8,8 @@
 1459939288224	Extract local variable 'fibonacci'
 1459939299401	Convert local variable 'expectedIndex' to field
 1459939326917	Convert local variable 'fibonacci' to field
-1459939399272	Introduce parameter for 'FibonacciIndexTests'
-1459939415860	Introduce parameter for 'FibonacciIndexTests'
+1459939399272	Introduce parameter for 'FibonacciIndexHappyPathTests'
+1459939415860	Introduce parameter for 'FibonacciIndexHappyPathTests'
 1459939435041	Rename local variable 'expected'
 1459939448611	Rename local variable 'numberToFind'
 1459939472750	Rename method 'indexOfZeroIsZero'

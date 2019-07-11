@@ -8,44 +8,27 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
- 
-
 @RunWith(Parameterized.class)
 public class FibonacciIndexHappyPathTests {
 
 	private final int expectedIndex;
-	private final int fibonacci;
+	private final long fibonacci;
+	private final FibonacciIndex fibonacciIndex = new FibonacciIndex();
 
-
-	public FibonacciIndexHappyPathTests(int expectedIndex, int fibonacci) {
+	public FibonacciIndexHappyPathTests(int expectedIndex, long fibonacci) {
 		this.expectedIndex = expectedIndex;
 		this.fibonacci = fibonacci;
-	}	
-	
+	}
 
 	@Parameters
 	public static List<Object[]> data() {
-		return Arrays.asList(new Object[][] { 
-				{ 0,0 }, {1,1}, {3,2}
+		return Arrays.asList(new Object[][] {
+				{ 0,0 }, {1,1}, {3,2}, {4,3}, {5,5}, {6,8}, {7,13}, {8,21}, {49, 7778742049L}
 			});
 	}
 
 	@Test
 	public void findsIndexOfFibonacciNumber() {
-		assertEquals(expectedIndex, findIndexOf(fibonacci));
+		assertEquals(expectedIndex, fibonacciIndex.findIndexOf(fibonacci));
 	}
-
-	@Test
-	public void indexOfTwoIsThree() {
-		assertEquals(3, findIndexOf(2));
-	}
-	
-
-	private int findIndexOf(int fibonacci) {
-		if(fibonacci < 2){
-			return fibonacci;
-		} 
-		return 3;
-	}
-
 }

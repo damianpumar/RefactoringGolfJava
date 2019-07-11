@@ -7,13 +7,13 @@ import org.junit.Test;
 import org.junit.runners.Parameterized.Parameters;
 
 
-public class FibonacciIndexTests {
+public class FibonacciIndexHappyPathTests {
 
 	private final int expectedIndex;
 	private final int fibonacci;
 
 
-	public FibonacciIndexTests() {
+	public FibonacciIndexHappyPathTests() {
 		expectedIndex = 0;
 		fibonacci = 0;
 	}

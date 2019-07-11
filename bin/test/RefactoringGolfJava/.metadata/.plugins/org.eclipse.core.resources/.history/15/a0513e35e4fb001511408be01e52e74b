@@ -3,12 +3,12 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class FibonacciIndexTests {
+public class FibonacciIndexHappyPathTests {
 
 	private final int expectedIndex;
 
 
-	public FibonacciIndexTests() {
+	public FibonacciIndexHappyPathTests() {
 		expectedIndex = 0;
 	}
 

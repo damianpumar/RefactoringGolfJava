@@ -7,9 +7,9 @@ import org.junit.runners.Parameterized;
  
 
 @RunWith(Parameterized.class)
-public class FibonacciIndexTests extends FibonacciIndexerBaseTests {
+public class FibonacciIndexHappyPathTests extends FibonacciIndexerBaseTests {
 
-	public FibonacciIndexTests(int expectedIndex, long fibonacci) {
+	public FibonacciIndexHappyPathTests(int expectedIndex, long fibonacci) {
 		this.expectedIndex = expectedIndex;
 		this.fibonacci = fibonacci;
 		indexer = new FibonacciIndexer();
