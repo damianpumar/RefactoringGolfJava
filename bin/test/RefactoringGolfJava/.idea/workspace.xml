@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30d182da-67dc-492a-af6f-34cf63143f82" name="Default Changelist" comment="" />
+    <list default="true" id="30d182da-67dc-492a-af6f-34cf63143f82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ROUND_3_A/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ROUND_3_A/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ROUND_3_A/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ROUND_3_A/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ROUND_3_A/src/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ROUND_3_A/src/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/production/RefactoringGolfJava/Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/production/RefactoringGolfJava/Sorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/Sorter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/Sorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/Sorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/SorterTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test/RefactoringGolfJava/SorterTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,67 +23,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="RefactoringGolfJava" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ROUND_5_A/src/Maths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ROUND_2_B/test/FootballScoreStatsTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-279">
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ROUND_5_B/test/MathsTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/QuickSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="384">
+                  <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+                  <folding>
+                    <element signature="e#93#94#0" expanded="true" />
+                    <element signature="e#152#153#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ROUND_3_B/src/QuickSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="46">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                  <folding>
+                    <element signature="method#pivotElements#0;class#QuickSort#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/RefactoringGolfJava.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/junit_junit_4_8.xml" />
+        <option value="$PROJECT_DIR$/Sort.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/src/Sort.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/src/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/src/Sorter.java" />
+        <option value="$PROJECT_DIR$/ROUND_3_A/src/QuickSort.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1894" />
     <option name="y" value="23" />
     <option name="width" value="2106" />
@@ -80,6 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,58 +112,7 @@
             <path>
               <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_A" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_A" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_A" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_B" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_1_B" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_2_A" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_2_A" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_2_B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_2_B" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
@@ -152,46 +123,35 @@
               <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
               <item name="ROUND_3_A" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_5_A" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_5_A" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_5_B" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_5_B" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
-              <item name="ROUND_5_B" type="462c0819:PsiDirectoryNode" />
+              <item name="ROUND_3_A" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
+              <item name="ROUND_3_B" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
+              <item name="ROUND_3_B" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RefactoringGolfJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RefactoringGolfJava" type="462c0819:PsiDirectoryNode" />
+              <item name="ROUND_3_B" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,10 +160,17 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SorterTests">
     <configuration name="FibonacciIndexTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RefactoringGolfJava" />
       <option name="PACKAGE_NAME" value="" />
@@ -227,8 +194,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SorterTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RefactoringGolfJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SorterTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SorterTests" />
         <item itemvalue="JUnit.FibonacciIndexTests" />
       </list>
     </recent_temporary>
@@ -239,6 +216,12 @@
   <component name="TestHistory">
     <history-entry file="FibonacciIndexTests - 2019.07.11 at 10h 58m 05s.xml">
       <configuration name="FibonacciIndexTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SorterTests - 2019.07.11 at 12h 30m 43s.xml">
+      <configuration name="SorterTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SorterTests - 2019.07.11 at 12h 40m 52s.xml">
+      <configuration name="SorterTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -251,27 +234,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="2560" height="1417" extended-state="6" />
+    <frame x="1440" y="0" width="2560" height="1440" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12311358" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49927008" visible="true" weight="0.123907864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32981133" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32981133" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5007299" side_tool="true" weight="0.123907864" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32981133" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32981133" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32981133" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32919708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -306,13 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ROUND_1_A/.settings/org.eclipse.jdt.core.prefs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -334,20 +311,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java">
+    <entry file="file://$PROJECT_DIR$/ROUND_5_A/src/Maths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-279">
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ROUND_5_B/test/MathsTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="352">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -358,10 +325,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ROUND_5_A/src/Maths.java">
+    <entry file="file://$PROJECT_DIR$/ROUND_5_B/test/MathsTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="480">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/RefactoringGolfJava.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_B/test/SorterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/SortKind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_B/src/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/test/SorterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#67#68#0" expanded="true" />
+            <element signature="e#84#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_B/src/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_B/src/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_B/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="method#pivotElements#0;class#QuickSort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROUND_3_A/src/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -422,6 +508,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
