@@ -13,20 +13,15 @@ public class Game {
 		this.awayTeamScore = awayTeamScore;
 	}
 
-	public String getHomeTeam() {
-		return homeTeam;
-	}
+	int getTeamScore(String teamName) {
+		int total = 0;
 
-	public int getHomeTeamScore() {
-		return homeTeamScore;
-	}
-
-	public String getAwayTeam() {
-		return awayTeam;
-	}
-
-	public int getAwayTeamScore() {
-		return awayTeamScore;
-	}
-
+		if(homeTeam.equals(teamName)){
+			total += homeTeamScore;
+        }
+		if(awayTeam.equals(teamName)){
+			total += awayTeamScore;
+        }
+        return total;
+    }
 }
